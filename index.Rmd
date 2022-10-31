@@ -16,6 +16,8 @@ Here's some text. I like the internet. I use [google](https://www.google.com/) a
 This is the picture of sunrise.
 ![](images/top.pic.jpg)
 
+<img src="images/top.pic.jpg" style="width:25%">
+
 ```{r}
 library(tidyverse)
 
